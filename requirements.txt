@@ -1,0 +1,12 @@
+dj-database-url==0.4.1
+Django==1.9.7
+gunicorn==19.6.0
+psycopg2==2.6.1
+whitenoise==3.3.0
+djangorestframework==3.6.2
+markdown==2.6.8
+django-filter==1.0.1
+requests==2.9.1
+Pillow==4.0.0
+django-oauth-toolkit==0.12.0
+django-rest-framework-social-oauth2==1.0.5
